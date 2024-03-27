@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\07b - SP2 - Atividade 2 - Quiz - Sintaxe C#\\Teste\\Teste.csproj",
+      "projectUniqueName": "C:\\Users\\carlosalberto\\Desktop\\Testando o GitHub\\TestRepository\\Teste\\Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\07b - SP2 - Atividade 2 - Quiz - Sintaxe C#\\Teste\\Teste.csproj",
+      "projectPath": "C:\\Users\\carlosalberto\\Desktop\\Testando o GitHub\\TestRepository\\Teste\\Teste.csproj",
       "packagesPath": "C:\\Users\\carlosalberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\07b - SP2 - Atividade 2 - Quiz - Sintaxe C#\\Teste\\obj\\",
+      "outputPath": "C:\\Users\\carlosalberto\\Desktop\\Testando o GitHub\\TestRepository\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlosalberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
