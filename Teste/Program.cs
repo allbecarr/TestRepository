@@ -2,6 +2,9 @@
 {
     static void Main(string[] args)
     {
+        /*
+        //07b - SP2 - Atividade 2 - Quiz - Sintaxe C#
+
         int a = 6;
         int b = 3;
         int c = 0;
@@ -24,5 +27,21 @@
         int e = 0;
         e = r + q / 2; //4/2=2+2=4
         Console.WriteLine("Resposta Exercício 5: " + e);
+        */
+        /*
+        //07c - SP2 - Atividade 3 - Quiz - Conceitos de POO
+
+        PedidoCompra p = new PedidoCompra();
+        p.CalcularPedido(3, 20.00, 5.00);
+        Console.WriteLine("Resultado do Exercício 2: " + p.total);
+
+        Triangulo t = new Triangulo();
+        t.base = 6;
+        t.altura = 4;
+        t.CalcularArea();
+        Console.WriteLine("Resultado do Exercício 4: " + t.area);
+        */
+
+
     }
 }
